@@ -38,6 +38,12 @@ figcaption {
     margin-left: auto;
     margin-right: auto;
   }
+  
+  #details div {
+    float:left;
+  }
+  
+  
 
 
 
